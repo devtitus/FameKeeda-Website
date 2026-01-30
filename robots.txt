@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+User-agent: ChatGPTBot
+Disallow: /
+
+Sitemap: https://famekeeda.com/sitemap.xml
